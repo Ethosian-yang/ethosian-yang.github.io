@@ -1,6 +1,9 @@
 ---
-title: Welcome to Quartz
+title: 생각을 돕는 기록
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+AI, 교육, 전략과 일의 변화를 관찰하고 기록합니다.
+
+## 최근 글
+
+- [[AI를 금지하는 수업보다 AI 사용을 설명하는 수업]]
